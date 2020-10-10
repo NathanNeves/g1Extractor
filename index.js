@@ -1,7 +1,6 @@
 const cheerio = require('cheerio');
 const axios = require('axios');
 const fs = require('fs-extra');
-const homofobia = require('./Racismo.json');
 
 
 async function takeData(termo){
