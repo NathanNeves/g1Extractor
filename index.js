@@ -43,5 +43,3 @@ async function takeData(termo,pagina){
 
 
 }
-
-takeData('travesti assassinada');
